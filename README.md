@@ -1,7 +1,7 @@
 # BadUI Battles Binary Password Input
 
 BadUI Battles inspired binary password input.\
-You can view and interact with the UI here: [Binary Password Input](https://lindo-mlambo.github.io/badui-battle-bin-pass/)
+You can view and interact with the UI here: [Binary Password Input](https://lamboughs.github.io/badui-battle-bin-pass/)
 
 ### Challenges:
 
